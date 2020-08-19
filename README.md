@@ -12,8 +12,6 @@ This was an app built using React, [click here for the website.](https://hintzet
 
 * [Questions](#questions)
 
-* [License](#license)
-
 ## Installation
 
 >To install the needed dependencies, run this command:
