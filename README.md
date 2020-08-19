@@ -1,10 +1,10 @@
 # Employee Directory
 
-[![repo size](https://img.shields.io/github/repo-size/hockeyduck3/Employee-Directory)](https://github.com/hockeyduck3/Employee-Directory)
+[![repo size](https://img.shields.io/github/repo-size/hintzetyson/react-user-directory)](https://github.com/hintzetyson/react-user-directory)
 
 ## Description
 
-For this project I had to go and build a simple Employee Directory app from scratch using React. The employee's are auto generated from the [randomuser.me](https://randomuser.me) API. The app allows the user to see all of the employees in the directory at a glance. You can also sort by name or age, or you can search by first name, last name, age, or birth date. This project is currently live on github pages, [click here to check it out!](https://hockeyduck3.github.io/Employee-Directory/)
+This was an app built using React, [click here for the website.](https://hintzetyson.github.io/react-user-directory/)
 
 ## Table of contents
 
@@ -24,7 +24,4 @@ npm i
 
 ## Questions
 
-If you have any questions, please open an issue or contact [LJ Spencer](https://github.com/hockeyduck3).
-
-## License
-Copyright (c) LJ Spencer All rights reserved.
+If you have any questions, please open an issue or contact [Tyson Hintze](https://github.com/hintzetyson).
